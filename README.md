@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently preparing for **AWS SAA-C03** and learning **GoLang** in my free time.
 
-- 💬 Ask me about **NodeJS,Flask,CassandraDB,OpenAI Plugins,CSS,JavaScript**
+- 💬 Ask me about **MERN Stack,Python,OpenAI libraries and other JS frameworks.**
 
 - 📫 How to reach me **s.sreenathkousthubham@gmail.com**
 
