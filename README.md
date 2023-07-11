@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://twitter.com/predatorstorm" target="blank"><img src="https://img.shields.io/twitter/follow/predatorstorm?logo=twitter&style=for-the-badge" alt="predatorstorm" /></a> </p>
 
-- 🌱 I’m currently learning **AWS SAA-C03** and **GoLang**
+- 🌱 I’m currently preparing for **AWS SAA-C03** and learning **GoLang** in my free time.
 
 - 💬 Ask me about **NodeJS,Flask,CassandraDB,OpenAI Plugins,CSS,JavaScript**
 
