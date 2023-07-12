@@ -5,13 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/predatorstorm" target="blank"><img src="https://img.shields.io/twitter/follow/predatorstorm?logo=twitter&style=for-the-badge" alt="predatorstorm" /></a> </p>
 
-- 🌱 I’m currently preparing for **AWS SAA-C03** and learning **GoLang** in my free time.
-
+- 🌱 My Portfolio [Click Here](https://sreenath-portfolio.vercel.app/)
+  
 - 💬 Ask me about **MERN Stack,Python,OpenAI libraries and other JS frameworks.**
 
 - 📫 How to reach me **s.sreenathkousthubham@gmail.com**
 
-- 📄 My Portfolio [Click Here](https://sreenath-portfolio.vercel.app/)
+- 📄 I’m currently preparing for **AWS SAA-C03** and learning **GoLang** in my free time.
 
 - ⚡ Fun fact **Guess what? As a student web developer, I've developed a superpower – I can make bugs disappear! Well, not literally, but I have a knack for finding and fixing those pesky coding bugs that seem to stump everyone else.So, if you're looking for someone who can make your code squeaky clean, you've come to the right place!**
 
