@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **s.sreenathkousthubham@gmail.com**
 
-- 📄 I’m currently preparing for **AWS SAA-C03** and learning **GoLang** in my free time.
+- 📄 Certified AWS Solutions Architect Associate (SAA-C03).
 
 - ⚡ Fun fact **Guess what? As a student web developer, I've developed a superpower – I can make bugs disappear! Well, not literally, but I have a knack for finding and fixing those pesky coding bugs that seem to stump everyone else.So, if you're looking for someone who can make your code squeaky clean, you've come to the right place!**
 
